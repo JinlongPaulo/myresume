@@ -1,0 +1,10 @@
+<view class="card">
+  <image class="bg" src="../../images/fengj.png" mode="widthFix"/>
+  <image class="logo" src="../../images/logo.png" mode="widthFix"/>
+
+  <view class="info">
+    <view class="name">何金龙</view>
+    <view class="desc">IT 小程序</view>
+    <view>13611942390@163.com</view>
+  </view>
+</view>
